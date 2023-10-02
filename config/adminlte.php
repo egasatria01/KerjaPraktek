@@ -320,7 +320,7 @@ return [
         // ],
         [
             'text' => 'Beranda',
-            'url'  => 'admin/settings',
+            'url'  => 'home',
             'icon' => 'fas fa-fw fa-home',
         ],
         ['header' => 'KELOLA DATA LAPORAN'],
